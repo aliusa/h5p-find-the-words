@@ -47,7 +47,7 @@
             },
             {
                 "label": "Vertikaliai žemyn",
-                "description": "žaidžių sąrašas, iš kurio reikia užpildyti tuščias vietas",
+                "description": "Raidžių sąrašas, iš kurio reikia užpildyti tuščias vietas",
                 "default": "abcdefghijklmnopqrstuvwxyząčęėįšųūž",
                 "regexp": {}
             },
