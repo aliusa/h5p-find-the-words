@@ -92,12 +92,16 @@
             {
                 "label": "Praleistas laiko tekstas",
                 "default": "Praleistas laikas",
-                "description": "etiketė, rodanti laiką, praleistą žaidžiant žaidimą"
+                "description": "Etiketė, rodanti laiką, praleistą žaidžiant žaidimą"
             },
             {
                 "label": "Atsiliepimo tekstas",
                 "default": "Jūs gavote @score balus iš @total",
                 "description": "Atsiliepimo tekstas, galimi kintamieji: @score ir @total. Pavyzdys: „Jūs gavote @score iš @total galimų taškų“"
+            },
+            {
+                "label": "Žodžių sąrašo antraštė",
+                "default": "Žodžiai",
             }
         ]
     }
